@@ -28,6 +28,5 @@ char introduction()
 	cout << "Bienvenue!" << endl;
 	cout << "Bande de casse-cous!" << endl;
 	cout << "Pret a trouver des mines ?(y/n)" << endl;
-	cin >> t;
 	return t;
 }
